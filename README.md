@@ -1,2 +1,2 @@
-# Case-pay-Hindi-remover
+# Cbse-pay-Hindi-remover
 Removes the Hindi pages
